@@ -1,0 +1,33 @@
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\bin\Debug\notepad2.exe.config
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\bin\Debug\notepad2.exe
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\bin\Debug\notepad2.pdb
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.AssemblyReference.cache
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.Form1.resources
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.Properties.Resources.resources
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.GenerateResource.cache
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.CoreCompileInputs.cache
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.exe
+C:\Users\ŠvehlaFilip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.pdb
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\bin\Debug\notepad2.exe.config
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\bin\Debug\notepad2.exe
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\bin\Debug\notepad2.pdb
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.AssemblyReference.cache
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.Form1.resources
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.Properties.Resources.resources
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.GenerateResource.cache
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.exe
+C:\Users\Filip\OneDrive - Gymnázium Uherské Hradiště\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.pdb
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\bin\Debug\notepad2.exe.config
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\bin\Debug\notepad2.exe
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\bin\Debug\notepad2.pdb
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.Form1.resources
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.Properties.Resources.resources
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.exe
+C:\Users\Filip\Desktop\GUH\PRG\Oktáva\notepad2\notepad2\obj\Debug\notepad2.pdb
